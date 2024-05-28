@@ -1,0 +1,19 @@
+{
+  "name": "soap-tester",
+  "version": "1.0.0",
+  "description": "A Soap Service Tester",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "mojaved",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "soap": "^1.0.3"
+  }
+}
